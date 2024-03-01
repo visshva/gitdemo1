@@ -1,0 +1,17 @@
+[33mcommit 13d4d2e6d075fa6090a46c0f44e4b7bfdc79274e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: visshva <visshva01@gmail.com>
+Date:   Fri Mar 1 16:48:58 2024 +0530
+
+    second added
+
+[33mcommit c42546a87627b5432cf5d98b745931fa3e619977[m
+Author: visshva <visshva01@gmail.com>
+Date:   Fri Mar 1 16:46:11 2024 +0530
+
+    FIRST MODIFIED
+
+[33mcommit 2b920cc1a7a67020ae4e07464172f5456795da73[m
+Author: visshva <visshva01@gmail.com>
+Date:   Fri Mar 1 16:43:46 2024 +0530
+
+    first added
